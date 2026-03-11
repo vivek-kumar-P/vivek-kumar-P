@@ -35,16 +35,16 @@
 
 Here are some of my highlighted works (check them out!):
 
-- **[MindMatrixInternship_Projects](https://github.com/vivek-kumar-P/MindMatrixInternship_Projects)**  
+- **[MindMatrixInternship_Projects](https://github.com/vivek-kumar-P/MindMatrix_Internship_Projects)**  
   Collection of projects from MindMatrix internship – various web and AI experiments.
 
 - **[lets_chat_with_tambo](https://github.com/vivek-kumar-P/lets_chat_with_tambo)**  
   Simple chatbot built for Tambo hackathon; integrates multiple MCPs and custom LLMs. (TypeScript)
 
-- **[accompllish](https://github.com/vivek-kumar-P/accompllish)**  
+- **[accompllish](https://github.com/vivek-kumar-P/accomplish)**  
   Formerly Openapers – an open-source AI co-worker that lives on your desktop.
 
-- **[AL.report_generator](https://github.com/vivek-kumar-P/AL.report_generator)**  
+- **[AL.report_generator](https://github.com/vivek-kumar-P/AI_report_generator)**  
   AI-powered report generator tool.
 
 - **[Image-Classification-model](https://github.com/vivek-kumar-P/Image-Classification-model)**  
@@ -63,10 +63,10 @@ More projects in my [repositories](https://github.com/vivek-kumar-P?tab=reposito
 ### 📫 Connect with Me
 <p align="center">
   <a href="https://x.com/vivekships"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X (Twitter)" /></a>
-  <!-- Add LinkedIn if you have one: -->
-  <!-- <a href="https://www.linkedin.com/in/YOUR-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> -->
+  <!-- Add LinkedIn if you have one:-->
+  <a href="https://www.linkedin.com/in/vivekkumar-p/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 <p align="center">
-  Thanks for stopping by! Drop a ⭐ on any repo you like or say hi on X. 🚀
+  Thanks for stopping by! Drop a ⭐ on any repo if you like or say hi on X or we can also connect on LinkedIn 🤝 🚀
 </p>
