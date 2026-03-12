@@ -35,26 +35,27 @@
 
 Here are some of my highlighted works (check them out!):
 
-- **[MindMatrixInternship_Projects](https://github.com/vivek-kumar-P/MindMatrix_Internship_Projects)**  
-  Collection of projects from MindMatrix internship – various web and AI experiments.
+<!-- - **[MindMatrixInternship_Projects](https://github.com/vivek-kumar-P/MindMatrix_Internship_Projects)**  
+  Collection of projects from MindMatrix internship – various web and AI experiments. -->
+  
+- **[cosmic-dressing-3D-Outfit_builder](https://github.com/vivek-kumar-P/cosmic-dressing-3D-Outfit_builder)**  
+  3D outfit builder for garments with drag-and-drop, realistic fabric simulation using Three.js, Blender, etc.
 
 - **[lets_chat_with_tambo](https://github.com/vivek-kumar-P/lets_chat_with_tambo)**  
   Simple chatbot built for Tambo hackathon; integrates multiple MCPs and custom LLMs. (TypeScript)
 
-- **[accompllish](https://github.com/vivek-kumar-P/accomplish)**  
-  Formerly Openapers – an open-source AI co-worker that lives on your desktop.
+<!-- - **[accompllish](https://github.com/vivek-kumar-P/accomplish)**  
+  Formerly Openapers – an open-source AI co-worker that lives on your desktop. -->
 
 - **[AL.report_generator](https://github.com/vivek-kumar-P/AI_report_generator)**  
   AI-powered report generator tool.
 
 - **[Image-Classification-model](https://github.com/vivek-kumar-P/Image-Classification-model)**  
   Streamlit app integrating MobileNetV2 + CIFAR-10 model for image classification with confidence scores. (Python, TensorFlow, OpenCV)
+  
 
-- **[cosmic-dressing-3D-Outfit_builder](https://github.com/vivek-kumar-P/cosmic-dressing-3D-Outfit_builder)**  
-  3D outfit builder for garments with drag-and-drop, realistic fabric simulation using Three.js, Blender, etc.
-
-- **[PersonalHealthTracker-SmokeFreeIndia](https://github.com/vivek-kumar-P/PersonalHealthTracker-SmokeFreeIndia)**  
-  Mobile/web app to help Indian users track tobacco quitting journey, cravings, health progress, and stay smoke-free. (TypeScript, Chart.js)
+<!-- - **[PersonalHealthTracker-SmokeFreeIndia](https://github.com/vivek-kumar-P/PersonalHealthTracker-SmokeFreeIndia)**  
+  Mobile/web app to help Indian users track tobacco quitting journey, cravings, health progress, and stay smoke-free. (TypeScript, Chart.js) -->
 
 More projects in my [repositories](https://github.com/vivek-kumar-P?tab=repositories) – feel free to explore, star ⭐, or fork!
 
