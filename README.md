@@ -1,25 +1,10 @@
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
 <!-- ║          VIVEK KUMAR P — GitHub README                      ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
-<h1 align="center">Vivek Kumar P</h1>
-<h3 align="center">Full Stack Developer · Bengaluru, India 🇮🇳</h3>
-
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00FF88&center=true&width=500&lines=Hi%2C+I'm+Vivek+Kumar+P+👋" />
 </div>
-
-![Header](https://capsule-render.vercel.app/api?type=waving&color=00FF88&height=120&section=header&text=Vivek%20Kumar%20P&fontSize=40&fontColor=0d1117&animation=fadeIn)
-```
-
----
-
-**Option 3 — Slim ASCII (fits GitHub width, no overflow)**
-```
- __   __ _____   __  ____  __  __
- \ \ / /|_ _\ \ / / | ___||  |/ /
-  \ V /  | |  \ V /  |___ \| ' / 
-   \_/  |___|  \_/   |____/|_|\_\
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=00FF88&center=true&vCenter=true&multiline=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Building+with+React%2C+Next.js+%26+TypeScript;Open+Source+Enthusiast+%F0%9F%8C%90;Shipping+ideas+from+Bengaluru%2C+India+%F0%9F%87%AE%F0%9F%87%B3;Chai-fueled+code+enjoyer+%E2%98%95" alt="Typing SVG" />
 
