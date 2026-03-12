@@ -1,13 +1,8 @@
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║          VIVEK KUMAR P — GitHub README                      ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
-
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00FF88&center=true&width=500&lines=Hi%2C+I'm+Vivek+Kumar+P+👋" />
-</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=00FF88&center=true&vCenter=true&multiline=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Building+with+React%2C+Next.js+%26+TypeScript;Open+Source+Enthusiast+%F0%9F%8C%90;Shipping+ideas+from+Bengaluru%2C+India+%F0%9F%87%AE%F0%9F%87%B3;Chai-fueled+code+enjoyer+%E2%98%95" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00FF88&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Vivek+Kumar+P+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Building+with+React%2C+Next.js+%26+TypeScript;Chai-fueled+coder+from+Bengaluru+%E2%98%95" alt="Typing SVG" />
 
+<br/>
 <br/>
 
 [![X](https://img.shields.io/badge/X_@vivekships-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/vivekships)
@@ -135,7 +130,8 @@ Feature : Confidence scores, live predictions
 
 <div align="center">
 
-🗂️ **[Browse all repositories →](https://github.com/vivek-kumar-P?tab=repositories)**  
+🗂️ **[Browse all repositories →](https://github.com/vivek-kumar-P?tab=repositories)**
+
 Drop a ⭐ if something sparks joy!
 
 </div>
@@ -160,6 +156,8 @@ Drop a ⭐ if something sparks joy!
 
 Found something interesting? Want to build together? Let's talk. 👇
 
+<br/>
+
 [![X](https://img.shields.io/badge/DM_on_X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/vivekships)
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivekkumar-p/)
 [![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vivekships@gmail.com)
@@ -175,7 +173,5 @@ timezone      : IST (UTC+5:30)
 <br/>
 
 *Thanks for stopping by — you're awesome for making it this far!* 🙌
-
-<!-- Built with chai and curiosity — Vivek Kumar P -->
 
 </div>
